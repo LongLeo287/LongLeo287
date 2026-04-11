@@ -5,11 +5,11 @@
 <div align="center">
 
 <!-- ANIMATED BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=LongLeo%20%F0%9F%8C%8C%20OmniClaw&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Autonomous%20AI%20OS%20%7C%20Multi-Agent%20Systems%20%7C%20Zero-Trust%20Security&descAlignY=56&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=LongLeo%20%F0%9F%8C%8C%20OmniClaw%20V5&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Autonomous%20AI%20OS%20%7C%203-Layer%20Architecture%20%7C%20Zero-Trust%20Security&descAlignY=56&descSize=16"/>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=F75C1E&center=true&vCenter=true&multiline=false&width=700&lines=🏛️+Architect+of+OmniClaw+AI+OS+%7C+21+Depts+%7C+75%2B+Agents;🛡️+Zero-Trust+%7C+Supply+Chain+Defense+%7C+Pillar+8+Hygiene;🔬+OIW+%E2%86%92+OHD+%E2%86%92+OA+%E2%86%92+OER+%E2%80%94+4+Core+Daemons;🧠+Expert+in+Claude+Code+%26+Google+Gemini+Deep+Context;⚡+Unlocking+Google+Antigravity+%7C+Graph+RAG+%7C+MCP" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=F75C1E&center=true&vCenter=true&multiline=false&width=900&lines=%F0%9F%8F%9B%EF%B8%8F%20Architect%20of%20OmniClaw%20V5.0%20%7C%203-Layer%20Boundary%20%7C%201930%2B%20Skills;%F0%9F%9B%A1%EF%B8%8F%20Zero-Trust%20%7C%20Vault%20Quarantine%20%7C%20Supply%20Chain%20Defense;%F0%9F%94%AC%20OIW%20-%3E%20OHD%20-%3E%20OSF%20-%3E%20OMA%20-%3E%20OA%20-%3E%20OER%20%E2%80%94%208%20Core%20Daemons;%F0%9F%A7%A0%20Expert%20in%20Gemini%20Antigravity%20%26%20ChromaDB%20Vector%20RAG;%E2%9A%A1%20Dynamic%20Bridges%20%7C%20Local%20LLMs%20%7C%20MCP%20Ecosystem" alt="Typing SVG" />
 </p>
 
 <!-- BADGES -->
@@ -31,90 +31,91 @@
 <!-- PROFILE VIEWS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LongLeo287&label=Profile+Views&color=F75C1E&style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Building%20OmniClaw%20v2.0-brightgreen?style=flat-square&logo=statuspage" />
+  <img src="https://img.shields.io/badge/Status-Operating%20OmniClaw%20V5.0-brightgreen?style=flat-square&logo=statuspage" />
 </p>
 
 </div>
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About the System
 
 <table align="center">
-  <tr>
-    <td width="55%" valign="top">
+<tr>
+<td width="55%" valign="top">
 
 ### 🚀 Core Mission
-**[OmniClaw](https://github.com/LongLeo287/OmniClaw)** is a monolithic, self-evolving AI Operating System. 21 departments, 75+ specialized agents, and a Graph RAG-powered brain — all running autonomously on your local machine.
+**[OmniClaw](https://github.com/LongLeo287/OmniClaw)** is a monolithic, self-evolving AI Operating System. Structured on a strict 3-Layer Architecture (Core, Brain, Vault), it empowers 1,900+ micro-skills and a ChromaDB Vector RAG brain — all running autonomously and securely on local hardware.
 
-- 🏛️ **4 Core Daemons:** OIW → OHD → OA → OER  
-- 🛡️ **Zero-Trust at every layer** — Quarantine, Audit, Register  
-- 🧠 **Graph RAG + Multi-layer Memory** — L1 to L5 cognitive architecture  
-- ⚖️ **OA Academy** — 8 Pillars of system integrity  
+- 🏛️ **8 Core Daemons:** OBD, OIW, OHD, OSF, OAP, OMA, OA, OER
+- 🛡️ **Zero-Trust Separation:** `vault/` Cold Storage isolation vs `brain/` AI-Context zone
+- 🧠 **ChromaDB RAG + Graph Topologies** — `_DIR_IDENTITY` Matrix tracking
+- ⚖️ **OA Academy** — 8 Pillars of automated system integrity
 
-    </td>
-    <td width="45%" valign="top">
+</td>
+<td width="45%" valign="top">
 
 ### ⚡ Live Terminal
 ```yaml
-OS     : OmniClaw v2.0 (Cycle 7)
-Core   : 4 Daemons | 21 Depts | 75+ Agents
-Status : 🟢 ONLINE — Building OER Pipeline
-Brain  : brain/knowledge/ [View-Only Vault]
+OS     : OmniClaw V5.0 (Production)
+Core   : 8 Daemons | 3-Layer Boundary 
+Skills : 1936 Plugins Mapped & Tracked
+Brain  : brain/chroma_db/ [Vector Engine 🟢]
+Vault  : vault/knowledge/ [Quarantined 🔒]
 Threat : 🟢 CLEAN — 0 IOC detected
-Pillar : 8/8 Active (Artifact Hygiene ✅)
+Pillar : 8/8 Active (Metadata Hygiene ✅)
 Signal : longdragon28797@gmail.com
 ```
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏛️ OmniClaw — 4 Core Daemons
+## 🏛️ OmniClaw — 8 Core Daemons
 
 <div align="center">
 
 |  | Daemon | Role | Authority |
 |:---:|:---:|---|---|
-| 🔬 | **OIW** | *Intake Workflow* | Harvests & gitingest-dries external repos into Quarantine |
-| ⚕️ | **OHD** | *Health Daemon* | Supply chain scanner · npm purge · System sanitation |
-| ⚖️ | **OA** | *Academy (Judge)* | Enforces 8 Pillars of architectural integrity |
-| 🏛️ | **OER** | *Ecosystem Registry* | **Sole issuer of IDs** · Keeper of `SKILL_REGISTRY.json` |
+| ⚓ | **OBD** | *Harbor Network* | Local Hub / Background Server connections |
+| 🔬 | **OIW** | *Intake Workflow* | Harvests external repos securely into `vault/` |
+| ⚕️ | **OHD** | *Health Daemon* | System sanitation · Dependency purging |
+| 🛡️ | **OSF** | *Firewall/Security* | Real-time Zero-Trust Threat Interception |
+| ⚡ | **OAP** | *Async Processor* | Offline data routing & heavy ingestion |
+| 🧬 | **OMA** | *Architect Forger* | Constructs Identity metadata for AI Context |
+| ⚖️ | **OA**  | *Academy (Judge)* | Enforces 8 Pillars of architectural integrity |
+| 🏛️ | **OER** | *Ecosystem Registry* | Sole issuer of tracking IDs for 1900+ skills |
 
 </div>
 
+```mermaid
+graph LR
+  OBD[OBD Harbor] --> OIW[OIW Intake]
+  OIW --> OHD[OHD Sanitize]
+  OHD --> OSF[OSF Firewall]
+  OSF --> OAP[OAP Ingest]
+  OAP --> OMA[OMA Forge]
+  OMA --> OA[OA Audit]
+  OA --> OER[OER Register]
 ```
-  ╔══════════╗    ╔══════════╗    ╔══════════╗    ╔══════════╗    ╔══════════╗
-  ║  TRIGGER ║ →  ║   OIW    ║ →  ║   OHD    ║ →  ║    OA    ║ →  ║   OER    ║
-  ║ CEO/Orch ║    ║ Harvest  ║    ║ Sanitize ║    ║  Audit   ║    ║ Register ║
-  ╚══════════╝    ╚══════════╝    ╚══════════╝    ╚══════════╝    ╚══════════╝
-```
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛡️ Security Architecture
+## 🛡️ Security & Storage Architecture
 
 <div align="center">
 
 | Layer | Mechanism | Status |
 |---|---|:---:|
-| Supply Chain Defense | IOC scanning — axios RAT, plain-crypto-js, C2 domains | 🟢 Active |
-| Artifact Hygiene *(Pillar 8)* | `.npmignore`, no `.map` leak, no `.env` in artifacts | 🟢 Active |
-| Zero-Trust Sandbox | All repos quarantined, gitingest-dried before Brain access | 🟢 Active |
-| Global Blacklist | Live IOC registry with Escape Protocol | 🟢 Active |
-| OHD Auto-Scan | `supply_chain_scan.ps1` + weekly `npm cache clean --force` | 🟢 Active |
+| 3-Tier Storage | STRICT `core/` (Logic) · `brain/` (AI Memory) · `vault/` (Raw Dump) | 🟢 Active |
+| Supply Chain Defense | OSF Threat Scanners · `_DIR_IDENTITY` enforcement | 🟢 Active |
+| Zero-Trust Sandbox | Unverified code isolated in Vault; AI context runs safely in Brain | 🟢 Active |
+| Global Blacklist | Auto-rename of disabled `.json` to mitigate Dependabot warnings | 🟢 Active |
+| Component Bridges | Disconnected auto-boot hooks for secure explicit-launch of External LLMs | 🟢 Active |
 
 </div>
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -123,11 +124,11 @@ Signal : longdragon28797@gmail.com
 <div align="center">
 
 ### 🧠 AI & LLM Ecosystem
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![AI Studio](https://img.shields.io/badge/AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![LightRAG](https://img.shields.io/badge/LightRAG-FF6B35?style=for-the-badge&logo=graphql&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=weaviate&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-20232A?style=for-the-badge&logo=ollama&logoColor=white)
+![Gemma](https://img.shields.io/badge/Gemma-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### 💻 Engineering Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -138,40 +139,21 @@ Signal : longdragon28797@gmail.com
 
 ### 🏗️ OmniClaw Architecture
 ![Multi-Agent OS](https://img.shields.io/badge/Multi--Agent_OS-F75C1E?style=for-the-badge&logo=linux&logoColor=white)
-![Graph RAG](https://img.shields.io/badge/Graph_RAG-7952B3?style=for-the-badge&logo=neo4j&logoColor=white)
+![Vector RAG](https://img.shields.io/badge/Vector_RAG-7952B3?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Zero Trust](https://img.shields.io/badge/Zero--Trust_Security-DC143C?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![MCP Protocol](https://img.shields.io/badge/MCP_Protocol-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Supply Chain Defense](https://img.shields.io/badge/Supply_Chain_Defense-228B22?style=for-the-badge&logo=dependabot&logoColor=white)
 
 </div>
 
----
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LongLeo287&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F75C1E&icon_color=F75C1E"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LongLeo287&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C1E"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LongLeo287&theme=radical&hide_border=true&background=0D1117&stroke=F75C1E&ring=F75C1E&fire=FF6B35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=F75C1E&sideLabels=F75C1E&dates=888888"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LongLeo287&bg_color=0D1117&color=F75C1E&line=F75C1E&point=ffffff&area=true&hide_border=true&area_color=F75C1E"/>
-</div>
-
----
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&fontSize=18&fontColor=fff&animation=twinkling"/>
 
-*"Ethics in AI is not a declaration — it's in the `.npmignore`, the artifact pipeline, and the deny rule."*
+<p align="center"><em>"Ethics in AI is not a declaration — it's in the strict <code>vault/</code> quarantine, the 3-Layer boundary, and the OSF Firewall."</em></p>
 
-**The Future of OS — Directed by CEO LongLeo** 🌌
+<p align="center"><strong>The Future of OS — Directed by CEO LongLeo</strong> 🌌</p>
 
 </div>
